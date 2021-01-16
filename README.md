@@ -14,7 +14,7 @@ I love programming a ton of things, especially bots and games. I've made several
 
 ## 📫 let's get in touch📫
 
-I'm happy to talk to you on Discord (`NJB#1914`), and if you like you can join my Discord server. I'm happy to do freelance work on any software development you have in mind. I also love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up.
+I'm happy to talk to you on Discord (`NJB#1914`), and if you like you can join my Discord server (https://discord.gg/ayRwu9UGqM). I'm happy to do freelance work on any software development you have in mind. I also love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up.
 
 <!--
 **servusDei2018/servusdei2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
