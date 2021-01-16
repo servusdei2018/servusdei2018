@@ -1,16 +1,20 @@
 # hi 👉😺👈
 
-hi hi hi my name is Nate 😺, and I'm a ✝️ Roman Catholic ✝️, a ✨ software developer ✨, and a 🇨🇭 lifeguard 🇨🇭 
+hi hi hi my name is Nate 😺, and I'm a ✝️ Roman Catholic ✝️, a ✨ software developer ✨, and a 🇨🇭 lifeguard 🇨🇭. My pronouns are he/him.
 
-## about me
+## ⚡ about me ⚡
 
 I speak English (my native tongue), and a little Spanish. I can read and write Latin, having taken it for three years (Henle). I love programming, and I know **Python 2/3**, **Go** (my language of choice), **ANSI C**, **JavaScript** (full-stack), and **HTML5/CSS/XML/JSON/YAML**.
 
 I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and hiking. I love reading many many great books (Aquinas, Aristotle, Plato, Homer, Virgil, Lucretius, Epictetus, Aurelius, Dante, Chaucer, Newton, Pascal, Kant, etc.), and my favorite play is Goethe's *Faust*. O'Neill's *Mourning Becomes Electra* is superb, too.
 
-## what i do
+## 😄 what i do 😄
 
-I love 
+I love programming a ton of things, especially bots and games. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](wikipedia.org/wiki/MUD) which I'm very proud of!
+
+## 📫 let's get in touch📫
+
+I'm happy to talk to you on Discord (`NJB#1914`), and if you like you can join my Discord server. I'm happy to do freelance work on any software development you have in mind. I also love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up.
 
 <!--
 **servusDei2018/servusdei2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
