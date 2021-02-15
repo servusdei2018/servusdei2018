@@ -10,7 +10,7 @@ I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and
 
 ## 😄 what i do 😄
 
-I love programming a ton of things, especially bots and games. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](wikipedia.org/wiki/MUD) which I'm very proud of!
+I love programming a ton of things, especially bots and games. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
 
 ## 📫 let's get in touch📫
 
