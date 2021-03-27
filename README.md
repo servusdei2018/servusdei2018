@@ -16,8 +16,8 @@ I love programming a ton of things, especially bots and games. I've made several
 
 I'm happy to talk to you on Discord (`NJB#1914`), and if you like you can join my Discord server (https://discord.gg/ayRwu9UGqM). I'm happy to do freelance work on any software development you have in mind. I also love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up.
 
-![Nate's github stats](https://github-readme-stats.vercel.app/api?username=servusdei2018&show_icons=true&theme=dracula&count_private=true)
-<img align="left" alt="Metrics" src="https://github.com/servusdei2018/servusdei2018/blob/master/github-metrics.svg">
+<img align="center" alt="Metrics" src="https://github.com/servusDei2018/servusdei2018/raw/main/github-metrics.svg">
+<img align="center" alt="Nate's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=servusdei2018&show_icons=true&theme=dracula&count_private=true">
 
 <!--
 **servusDei2018/servusdei2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
