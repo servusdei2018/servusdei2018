@@ -41,18 +41,18 @@ I love helping ppl 👯 so if you want help with anything you think I may be goo
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.classic.svg">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.classic.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.achievements.svg">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.achievements.svg">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.languages.svg">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.languages.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.reactions.svg">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.reactions.svg">
     </td>
   </tr>
 </table>
