@@ -21,9 +21,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_notable: yes
-          plugin_notable_from: all           # Display notable contributions to all accounts
-          plugin_notable_filter: stars:>100  # Count contributions as notable if stars > 100
-          plugin_notable_repositories: yes   # Display the notable repository name as well as the owner
+          plugin_notable_from: organization  # Display notable contributions to organizations only
+          plugin_notable_filter: stars:>500  # Count contributions as notable if stars > 500
+          plugin_notable_repositories: yes   # Display org/repo
 
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
