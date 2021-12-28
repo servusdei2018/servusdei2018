@@ -37,19 +37,22 @@ Right now I am in college, pursuing a Bachelors of Liberal Arts, and hope to pur
 
 I love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up. And I'm always in the mood for new friends :)
 
-<img align="center" alt="Metrics" src="https://github.com/servusDei2018/servusdei2018/raw/main/github-metrics.svg">
 
-<!--
-**servusDei2018/servusdei2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.classic.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.achievements.svg">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.languages.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/servusdei2018/servusdei2018/blob/master/metrics.plugin.reactions.svg">
+    </td>
+  </tr>
+</table>
