@@ -3,7 +3,7 @@
  - Roman Catholic ✝️
  - software developer ✨
  - chad lifeguard 🇨🇭
- - BK Sensei 🍔
+ - Burger King Sensei 🍔
 
 ## 🔭 about me
 
