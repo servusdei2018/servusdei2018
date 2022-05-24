@@ -26,6 +26,7 @@ Right now I am in college, pursuing a Bachelors of Liberal Arts, and hope to pur
  - Linux (rn my main distro is Ubuntu; I also maintain a Centos 8 server and a Gentoo build). I have a Windows 10 pc too, but just because.
  - Nvim. It is candy.
  - Go. Imma proud gopher :) It's my language of choice.
+ - Python 2/3. Used to use it a lot more before I found Go.
  - Fullstack JS, web (HTML/CSS)
  - XML, JSON, YAML
  - C99/ANSI C. That's right, there's some neat antiques I mess around with, and I've gained my proficiency therefrom.
