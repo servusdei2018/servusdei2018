@@ -34,7 +34,6 @@ Right now I am in college, pursuing a Bachelors of Liberal Arts, and hope to pur
 ## 📫 let's get in touch
 
  - Discord: NJB#1914
- - Email: servusdei@programmer.net
 
 I love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up. And I'm always in the mood for new friends :)
 
