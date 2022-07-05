@@ -2,14 +2,14 @@
 
  - Roman Catholic ✝️
  - software developer ✨
- - chad lifeguard 🇨🇭
- - Burger King Sensei 🍔
+ - outdoors guy 🌳
+ - gym rat 🏋️
 
 ## 🔭 about me
 
-I speak English natively, and I am in my fourth year of Latin. I love programming, and I know **Python 2/3**, **Go** (my language of choice), **ANSI C**, **JavaScript** (full-stack), and **HTML5/CSS/XML/JSON/YAML**.
+I'm a little of everything mixed up into me. I love programming, and my forte is **Python 3**, and **Go** (my language of choice). I dabble with **ANSI C**, **JavaScript** (full-stack), and **HTML5/CSS/XML/JSON/YAML**.
 
-I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and hiking. I love reading many many great books (Aquinas, Aristotle, Plato, Homer, Virgil, Lucretius, Epictetus, Aurelius, Dante, Chaucer, Newton, Pascal, Kant, etc.), and my favorite play is Goethe's *Faust*. O'Neill's *Mourning Becomes Electra* is superb, too.
+I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and hiking. I love reading many many great books (Aquinas, Aristotle, Plato, Homer, Virgil, Lucretius, Epictetus, Aurelius, Dante, Chaucer, Newton, Pascal, Kant, etc.), and my favorite play is Goethe's *Faust*.
 
 ## 😄 what i do
 
@@ -18,18 +18,18 @@ I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and
   I thank God, whom I serve, as my ancestors did, with a clear conscience, as night and day I constantly remember you in my prayers.
 </blockquote>
 
-I love 💕 programming a ton of things, especially bots and games. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
+I love 💕 programming a ton of things, especially bots. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
 
-Right now I am in college, pursuing a Bachelors of Liberal Arts, and hope to pursue a Masters in Computer Science afterwards.
+Right now I am in college, pursuing a BS in Computer Science, and hope to pursue a MSc in Computer Science afterwards.
 
 ## ⚡ my toolbox
- - Linux (rn my main distro is Ubuntu; I also maintain a Centos 8 server and a Gentoo build). I have a Windows 10 pc too, but just because.
- - Nvim. It is candy.
- - Go. Imma proud gopher :) It's my language of choice.
- - Python 2/3. Used to use it a lot more before I found Go.
+ - Linux
+ - Nvim
+ - Go. Imma proud gopher :)
+ - Python 2/3
  - Fullstack JS, web (HTML/CSS)
  - XML, JSON, YAML
- - C99/ANSI C. That's right, there's some neat antiques I mess around with, and I've gained my proficiency therefrom.
+ - C99/ANSI C
 
 ## 📫 let's get in touch
 
