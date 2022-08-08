@@ -1,15 +1,14 @@
 # Hi, I'm Nate
 
  - Roman Catholic ✝️
- - software developer ✨
  - outdoors guy 🌳
  - gym rat 🏋️
 
 ## 🔭 about me
 
-I'm a little of everything mixed up into me. I love programming, and my forte is **Python 3**, and **Go** (my language of choice). I dabble with **ANSI C**, **JavaScript** (full-stack), and **HTML5/CSS/XML/JSON/YAML**.
+I'm a little of everything mixed up into one. I love programming, and my forte is **Python**, and **Go**. I'm fluent at fullstack development, with an emphasis on Ionic/Vue.js upfront.
 
-I'm enthusiastic about the outdoors, and I love kayaking, canoeing, fishing, and hiking. I love reading many many great books (Aquinas, Aristotle, Plato, Homer, Virgil, Lucretius, Epictetus, Aurelius, Dante, Chaucer, Newton, Pascal, Kant, etc.), and my favorite play is Goethe's *Faust*.
+I really love the outdoors. When I'm not working on the next greatest platform, I'm enjoying life on the Quinebaug River, or hiking the trails at a local state park. My dream is to eventually live in the Himalayas.
 
 ## 😄 what i do
 
@@ -23,20 +22,16 @@ I love 💕 programming a ton of things, especially bots. I've made several bots
 Right now I am in college, pursuing a BS in Computer Science, and hope to pursue a MSc in Computer Science afterwards.
 
 ## ⚡ my toolbox
+Approached with any challenge, I'd be able to build anything with
  - Linux
  - Nvim
- - Go. Imma proud gopher :)
- - Python 2/3
- - Fullstack JS, web (HTML/CSS)
- - XML, JSON, YAML
- - C99/ANSI C
+ - Go
+ - Python 3
+ - TypeScript
 
 ## 📫 let's get in touch
 
- - Discord: NJB#1914
-
-I love helping ppl 👯 so if you want help with anything you think I may be good at, hit me up. And I'm always in the mood for new friends :)
-
+LinkedIn: https://linkedin.com/in/nathanael-bracy
 
 <table>
   <tr>
