@@ -6,7 +6,7 @@
 
 ## 🔭 about me
 
-I'm a little of everything mixed up into one. I love programming, and my forte is **Python**, and **Go**. I'm fluent at fullstack development, with an emphasis on Ionic/Vue.js upfront.
+I love programming, and my forte is **Python**, and **Go**. I'm fluent at fullstack development, with an emphasis on **Ionic/Vue.js** upfront.
 
 I really love the outdoors. When I'm not working on the next greatest platform, I'm enjoying life on the Quinebaug River, or hiking the trails at a local state park. My dream is to eventually live in the Himalayas.
 
