@@ -22,16 +22,12 @@ I love 💕 programming a ton of things, especially bots. I've made several bots
 Right now I am in college, pursuing a BS in Computer Science, and hope to pursue a MSc in Computer Science afterwards.
 
 ## ⚡ my toolbox
-Approached with any challenge, I'd be able to build anything with
+I can build anything with
  - Linux
  - Nvim
  - Go
  - Python 3
  - TypeScript
-
-## 📫 let's get in touch
-
-LinkedIn: https://linkedin.com/in/nathanael-bracy
 
 <table>
   <tr>
