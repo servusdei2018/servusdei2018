@@ -2,13 +2,13 @@
 
  - Roman Catholic ✝️
  - outdoors guy 🌳
- - gym rat 🏋️
+ - volleyball enthusiast 🏐
 
 ## 🔭 about me
 
 I love programming, and my forte is **Python**, and **Go**. I'm fluent at fullstack development, with an emphasis on **Ionic/Vue.js** upfront.
 
-I really love the outdoors. When I'm not working on the next greatest platform, I'm enjoying life on the Quinebaug River, or hiking the trails at a local state park. My dream is to eventually live in the Himalayas.
+I really love the outdoors. When I'm not coding, I'm enjoying life on the Quinebaug River, or hiking the trails at a local state park. I also love playing volleyball in my free time, and (used to) read a lot.
 
 ## 😄 what i do
 
@@ -18,8 +18,6 @@ I really love the outdoors. When I'm not working on the next greatest platform, 
 </blockquote>
 
 I love 💕 programming a ton of things, especially bots. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
-
-Right now I am in college, pursuing a BS in Computer Science, and hope to pursue a MSc in Computer Science afterwards.
 
 ## ⚡ my toolbox
 I can build anything with
