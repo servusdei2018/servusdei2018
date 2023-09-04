@@ -31,7 +31,8 @@ I love 💕 programming a ton of things, especially bots. I've made several bots
 
 ## 📨 Contact Me
  - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
- - Resume: Available upon request
+ - Resume: Available upon [request](https://www.linkedin.com/in/nathanael-bracy/)
+ - Discord: .gnu.
 
 <table>
   <tr>
