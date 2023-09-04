@@ -1,16 +1,17 @@
 # Hi, I'm Nate
 
- - Roman Catholic ✝️
- - outdoors guy 🌳
- - volleyball enthusiast 🏐
+ - ✝️ Roman Catholic
+ - 🇺🇸 ROTC cadet
+ - 🌳 outdoors guy
+ - 🏐 volleyball enthusiast
 
-## 🔭 about me
+## 🔭 About Me
 
-I love programming, and my forte is **Python**, and **Go**. I'm fluent at fullstack development, with an emphasis on **Ionic/Vue.js** upfront.
+I'm an enthusiastic software engineer, doing most of my work in **Python**, **TypeScript** and **Go**. I'm a fluent fullstack developer, with an emphasis on **Vue.js** on the frontend.
 
-I really love the outdoors. When I'm not coding, I'm enjoying life on the Quinebaug River, or hiking the trails at a local state park. I also love playing volleyball in my free time, and (used to) read a lot.
+At the moment, I am working towards a B.Sc. in Computer Engineering at [Clarkson University](https://www.clarkson.edu/). When I'm not at a lecture or doing homework, I'm enjoying life in the Adirondacks, swimming in the Raquette river and climbing the [46 peaks](https://adk46er.org/).
 
-## 😄 what i do
+## 😄 What I Do
 
 2 Timothy 1:3
 <blockquote>
@@ -19,13 +20,18 @@ I really love the outdoors. When I'm not coding, I'm enjoying life on the Quineb
 
 I love 💕 programming a ton of things, especially bots. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
 
-## ⚡ my toolbox
-I can build anything with
- - Linux
- - Nvim
+## ⚡ My Toolbox
  - Go
- - Python 3
+ - Python
  - TypeScript
+ - C/C++
+ - Docker
+ - Kubernetes
+ - MongoDB, MySQL, Redis
+
+## 📨 Contact Me
+ - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
+ - Resume: Available upon request
 
 <table>
   <tr>
