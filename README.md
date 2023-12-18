@@ -1,6 +1,6 @@
 # Hi, I'm Nate
 
- - 
+ - 🍕 pizza enthusiast
  - 🌳 outdoors guy
  - 🏐 volleyball enthusiast
 
