@@ -1,7 +1,6 @@
 # Hi, I'm Nate
 
- - ✝️ Roman Catholic
- - 🇺🇸 ROTC cadet
+ - 
  - 🌳 outdoors guy
  - 🏐 volleyball enthusiast
 
@@ -24,15 +23,14 @@ I love 💕 programming a ton of things, especially bots. I've made several bots
  - Go
  - Python
  - TypeScript
- - C/C++
+ - C++
  - Docker
  - Kubernetes
- - MongoDB, MySQL, Redis
+ - MongoDB, Redis
 
 ## 📨 Contact Me
  - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
- - Resume: Available upon [request](https://www.linkedin.com/in/nathanael-bracy/)
- - Discord: .gnu.
+ - Resume: Available upon request
 
 <table>
   <tr>
