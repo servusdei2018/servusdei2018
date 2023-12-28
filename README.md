@@ -20,13 +20,14 @@ At the moment, I am working towards a B.Sc. in Computer Engineering at [Clarkson
 I love 💕 programming a ton of things, especially bots. I've made several bots to handle repetitive tasks on a couple MMO's I play, and I've written a couple [MUDs](http://www.wikipedia.org/wiki/MUD) which I'm very proud of!
 
 ## ⚡ My Toolbox
+ - C++
  - Go
  - Python
  - TypeScript
- - C++
+ - Dart/Flutter
  - Docker
  - Kubernetes
- - MongoDB, Redis
+ - SQLite, MongoDB, Redis
 
 ## 📨 Contact Me
  - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
