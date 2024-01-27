@@ -30,6 +30,7 @@ I love 💕 programming a ton of things, especially bots. I've made several bots
  - SQLite, MongoDB, Redis
 
 ## 📨 Contact Me
+ - Email: nate@bracy.dev
  - Website: https://bracy.dev/
  - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
  - Resume: Available upon request
