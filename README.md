@@ -2,7 +2,7 @@
 
  - 🍕 pizza enthusiast
  - 🌳 outdoors guy
- - 🏐 volleyball enthusiast
+ - 🏐 volleyball forever
 
 ## 🔭 About Me
 
