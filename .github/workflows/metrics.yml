@@ -22,7 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_notable: yes
           plugin_notable_from: organization  # Display notable contributions to organizations only
-          plugin_notable_filter: stars:>500  # Count contributions as notable if stars > 500
+          plugin_notable_filter: stars:>64  # Count contributions as notable if stars > 500
           plugin_notable_repositories: yes   # Display org/repo
 
       - name: 🏆 Achievements
