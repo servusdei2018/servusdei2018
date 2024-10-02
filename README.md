@@ -6,21 +6,15 @@
 
 ## 🔭 About Me
 
-I'm an enthusiastic software engineer, doing most of my work in **Python**, **TypeScript** and **Go**. I'm a fluent fullstack developer, with an emphasis on **Vue.js** on the frontend.
+I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware. Currently interning at [Rappo](https://buildrappo.com), I focus on creating user-friendly applications and enhancing code maintainability.
 
-At the moment, I am working towards a B.Sc. in Computer Engineering at [Clarkson University](https://www.clarkson.edu/). When I'm not at a lecture or doing homework, I'm enjoying life in the Adirondacks, swimming in the Raquette river and climbing the [46 peaks](https://adk46er.org/).
+When I’m not coding, you can find me enjoying the Adirondacks, swimming in the Raquette River, or climbing the [46 peaks](https://adk46er.org/).
 
 ## ⚡ My Toolbox
 
- - C++
- - Go
- - Python
- - Rust
- - TypeScript
- - Dart/Flutter
- - Docker
- - Kubernetes
- - SQLite, MongoDB, Redis
+- Programming Languages: C++, Go, Python, Java, TypeScript, VHDL
+- Frameworks: Astro, Cypress, Express, Gin, Jest, Puppeteer, Vue
+- DevOps: CI/CD, Docker, Git, Kubernetes
 
 ## 📨 Contact Me
 
