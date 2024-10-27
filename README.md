@@ -21,7 +21,7 @@ When I’m not coding, you can find me enjoying the Adirondacks, swimming in the
  - Email: nate@bracy.dev
  - Website: https://bracy.dev/
  - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
- - Resume: Available upon request
+ - Resume: [View my resume](https://github.com/servusdei2018/servusdei2018/blob/main/Resume.pdf)
 
 <table>
   <tr>
