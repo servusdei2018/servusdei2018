@@ -12,7 +12,7 @@ When I’m not coding, you can find me enjoying the Adirondacks, swimming in the
 
 ## ⚡ My Toolbox
 
-- Programming Languages: C++, Go, Python, Java, TypeScript, VHDL
+- Programming Languages: C++, Go, Python, Rust, Java, TypeScript, VHDL
 - Frameworks: Astro, Cypress, Express, Gin, Jest, Puppeteer, Vue
 - DevOps: CI/CD, Docker, Git, Kubernetes
 
