@@ -6,7 +6,7 @@
 
 ## 🔭 About Me
 
-I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware. Currently interning at [Rappo](https://buildrappo.com), I focus on creating user-friendly applications and enhancing code maintainability.
+I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware.
 
 When I’m not coding, you can find me enjoying the Adirondacks, swimming in the Raquette River, or climbing the [46 peaks](https://adk46er.org/).
 
