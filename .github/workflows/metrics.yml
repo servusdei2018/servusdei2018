@@ -14,7 +14,7 @@ jobs:
     if: "github.repository == 'servusdei2018/servusdei2018'"
     steps:
       - name: 🙋 Introduction plugin
-        uses: servusdei2018/metrics@latest
+        uses: mikey-/metrics@master
         if: ${{ success() || failure() }}
         with:
           filename: metrics.classic.svg
@@ -26,7 +26,7 @@ jobs:
           plugin_notable_repositories: yes   # Display org/repo
 
       - name: 🏆 Achievements
-        uses: servusdei2018/metrics@latest
+        uses: mikey-/metrics@master
         if: ${{ success() || failure() }}
         with:
           filename: metrics.plugin.achievements.svg
@@ -40,7 +40,7 @@ jobs:
           plugin_achievements_threshold: X
       
       - name: 🎭 Reactions plugin
-        uses: servusdei2018/metrics@latest
+        uses: mikey-/metrics@master
         if: ${{ success() || failure() }}
         with:
           filename: metrics.plugin.reactions.svg
@@ -55,7 +55,7 @@ jobs:
 
       - name: 🈷️ Languages plugin
         if: ${{ success() || failure() }}
-        uses: servusdei2018/metrics@latest
+        uses: mikey-/metrics@master
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
