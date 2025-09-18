@@ -42,3 +42,17 @@ When I’m not coding, you can find me enjoying the Adirondacks, swimming in the
   </tr>
 </table>
 <a href="https://holopin.io/@servusdei2018"><img src="https://holopin.io/api/user/board?user=servusdei2018"></a>
+
+<div align="center">
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/servusdei2018/servusdei2018/raw/refs/heads/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/servusdei2018/servusdei2018/raw/refs/heads/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://github.com/servusdei2018/servusdei2018/raw/refs/heads/github-breakout/images/breakout-light.svg" />
+ </picture>
+</div>
