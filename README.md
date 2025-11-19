@@ -29,7 +29,7 @@ When I’m not coding, you can find me enjoying the Adirondacks, swimming in the
       <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.classic.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/servusdei2018/servusdei2018/blob/main/metrics.plugin.achievements.svg">
+      <img src="https://streak-stats.demolab.com/?user=servusdei2018&theme=prussian">
     </td>
   </tr>
   <tr>
