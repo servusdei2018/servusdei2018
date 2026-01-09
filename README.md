@@ -1,27 +1,33 @@
-# Hi, I'm Nate
+# Nathanael Bracy
 
- - 🍕 pizza enthusiast
- - 🌳 outdoors guy
- - 🏐 volleyball forever
+---
 
-## 🔭 About Me
+### About Me
 
-I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware.
+>  I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware.
+>
+>  When I’m not coding, you can find me enjoying the Adirondacks, swimming in the Raquette River, or climbing the [46 peaks](https://adk46er.org/). 
 
-When I’m not coding, you can find me enjoying the Adirondacks, swimming in the Raquette River, or climbing the [46 peaks](https://adk46er.org/).
+---
 
-## ⚡ My Toolbox
+```ini
+[technical_stack]
+languages  = ["C++", "Go", "Python", "Rust", "Java", "TypeScript", "VHDL"]
+frameworks = ["Astro", "Cypress", "Express", "Gin", "Jest", "Puppeteer", "Vue"]
+devops     = ["CI/CD", "Docker", "Git", "Kubernetes"]```
+```
 
-- **Programming Languages**: C++, Go, Python, Rust, Java, TypeScript, VHDL
-- **Frameworks**: Astro, Cypress, Express, Gin, Jest, Puppeteer, Vue
-- **DevOps**: CI/CD, Docker, Git, Kubernetes
+---
 
-## 📨 Contact Me
+<div align="center">
 
- - Email: nate@bracy.dev
- - Website: https://bracy.dev/
- - LinkedIn: https://www.linkedin.com/in/nathanael-bracy/
- - Resume: [View my resume](https://github.com/servusdei2018/servusdei2018/blob/main/Resume.pdf)
+#### Connect
+
+[nate@bracy.dev](mailto:nate@bracy.dev) • [bracy.dev](https://bracy.dev/) • [LinkedIn](https://www.linkedin.com/in/nathanael-bracy/) • [Resume](https://github.com/servusdei2018/servusdei2018/blob/main/Resume.pdf)
+
+</div>
+
+---
 
 <table>
   <tr>
