@@ -14,7 +14,7 @@
 [technical_stack]
 languages  = ["C++", "Go", "Python", "Rust", "Java", "TypeScript", "VHDL"]
 frameworks = ["Astro", "Cypress", "Express", "Gin", "Jest", "Puppeteer", "Vue"]
-devops     = ["CI/CD", "Docker", "Git", "Kubernetes"]```
+devops     = ["CI/CD", "Docker", "Git", "Kubernetes"]
 ```
 
 ---
