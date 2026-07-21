@@ -6,7 +6,7 @@
 
 >  I'm a passionate software engineer with experience in fullstack development and a growing interest in embedded systems and hardware.
 >
->  When I’m not coding, you can find me enjoying the Adirondacks, swimming in the Raquette River, or climbing the [46 peaks](https://adk46er.org/). 
+>  When I’m not coding, you can find me enjoying the [Shenandoah Valley](https://www.visitshenandoah.org/), swimming in the Shenandoah River, or hiking the Blue Ridge Mountains. 
 
 ---
 
